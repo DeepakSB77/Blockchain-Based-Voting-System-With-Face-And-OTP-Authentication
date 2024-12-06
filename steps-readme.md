@@ -18,22 +18,3 @@
 * Login as Voter, Click on Election, select Candidate, record and upload a video of 5-10 seconds for face verification, enter SMS OTP and Email OTP.
 * Login as Admin, complete election and generate result.
 
-postgres SQL 
-'USER': 'postgres',
-        'PASSWORD':'Deepak123',
-        'HOST':'localhost' 
-    port:5432
-    superuser postgres
-
-
-    superuser and admin
-    username:Deepak
-    pass:Dee@1234
-    email: Deepakbhadgaonkar1@gmail.com
-
-    
-2factor otp 
-https://2factor.in/CP/Dashboard_list.php
-Login URL: https://2factor.in/CP/
-Username: 8618157769
-Password: 5216565

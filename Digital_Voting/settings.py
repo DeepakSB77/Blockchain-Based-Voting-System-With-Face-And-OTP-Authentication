@@ -78,9 +78,9 @@ WSGI_APPLICATION = 'Digital_Voting.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'Digital_Voting',
-        'USER': 'postgres',
-        'PASSWORD': 'Deepak123',
+        'NAME': '',  # Database name
+        'USER': '',  # Database username
+        'PASSWORD': '',  # Database password
         'HOST': 'localhost'
     }
 }
